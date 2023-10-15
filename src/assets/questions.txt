@@ -1,0 +1,9 @@
+{
+  "array": [
+    "Select a mood or emotion you frequently want to shift from, such as stress, sadness, or lethargy",
+    "Which time of day do you most often seek a mood boost? Morning, Afternoon, or Evening",
+    "Which of these is your favorite theme for changing your internal state?  Music, humor, art, inspirational quotes.",
+    "Which type of media do you connect with most? Image, Audio, Video",
+    "Would you be open to sharing content influenced by friends and family?"
+  ]
+}

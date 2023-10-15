@@ -1,0 +1,9 @@
+{
+  "array": [
+    "Anger",
+    "Morning",
+    "Music",
+    "Video",
+    "Yes"
+  ]
+}
