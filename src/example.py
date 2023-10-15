@@ -12,6 +12,8 @@ import webbrowser
 
 openai.organization = ""
 openai.api_key = os.getenv('OPENAI_API_KEY')
+openai.api_key = "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"
+openai.api_key = "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"
 
 url_pattern = r'https?://\S+'
 
